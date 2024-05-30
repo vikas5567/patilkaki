@@ -10,7 +10,6 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
-  background-image: url('Patilkaki.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -79,8 +78,9 @@ footer{
   }
 
   select {
-    width: 100%;
+    width: 50%;
     margin-top: 10px;
+    align-items: left;
   }
 
   table {
@@ -90,6 +90,5 @@ footer{
   footer {
     background-color: #f5f5f5;
     margin-bottom: 10%;
-    text-align: center;
   }
 }
